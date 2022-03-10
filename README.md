@@ -1,2 +1,3 @@
 # hug-template-lint
-Lint template
+
+Lint template for Hug Cli
