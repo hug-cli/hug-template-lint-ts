@@ -1,4 +1,4 @@
-# hug-template-lint
+# hug-template-lint-ts
 
 Lint template for Hug Cli
 
